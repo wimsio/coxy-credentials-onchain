@@ -196,6 +196,8 @@ Enrollment and Colleges
 
 The diagrams and current dashboards show that COXY already has the foundations of a complete on-chain academic credential system: issuance, verification, lifecycle management, wallet-based identity, IP registration, and tokenized economics.
 
+<img width="1795" height="745" alt="image" src="https://github.com/user-attachments/assets/c0cd7407-1538-447c-8ef8-dffed35db5b1" />
+
 The next phase focuses on turning these capabilities into a robust platform for millions of tertiary students by:
 
 - Scaling the underlying architecture and Cardano integration.  
