@@ -1,4 +1,3 @@
-```markdown
 # COXY: Tokenizing Tertiary Student Credentials On-Chain  
 _New desired features for a platform that can serve millions of tertiary students_
 
@@ -10,9 +9,9 @@ In this vision, every grade, project, and intellectual-property output can be an
 
 ## 2. Current Platform Snapshot
 
-<img width="1738" height="806" alt="image" src="https://github.com/user-attachments/assets/ae675a09-ac5a-4a3b-98fa-ea404ec6f494" />
+![Coxygen dashboard and wallet](https://github.com/user-attachments/assets/ae675a09-ac5a-4a3b-98fa-ea404ec6f494)
 
-<img width="1447" height="689" alt="image" src="https://github.com/user-attachments/assets/fcdf271c-fc2b-4d8c-8e79-0a325b96cd7b" />
+![Reports dashboard](https://github.com/user-attachments/assets/fcdf271c-fc2b-4d8c-8e79-0a325b96cd7b)
 
 The existing Coxygen university dashboard and wallet (as shown in the enrollment and old dApp screenshots) already support a working end-to-end flow for a smaller cohort of users.
 
@@ -25,7 +24,7 @@ These components prove that the model works technically and educationally. The n
 
 ## 3. High-Level Architecture for Scale
 
-<img width="1335" height="789" alt="image" src="https://github.com/user-attachments/assets/a85e2569-6a05-4f35-aa6b-bc67872858a3" />
+![High-level architecture](https://github.com/user-attachments/assets/a85e2569-6a05-4f35-aa6b-bc67872858a3)
 
 The high-level system diagram introduces a modular architecture designed to scale.
 
@@ -48,7 +47,7 @@ This separation of concerns makes it possible to horizontally scale each backend
 
 ## 4. Credential Issuance Flow
 
-<img width="1590" height="590" alt="image" src="https://github.com/user-attachments/assets/83239515-c6f1-4643-9a50-13aa1a723963" />
+![Credential issuance sequence](https://github.com/user-attachments/assets/83239515-c6f1-4643-9a50-13aa1a723963)
 
 The credential issuance sequence diagram describes how a grade or qualification becomes an on-chain asset.
 
@@ -67,7 +66,7 @@ For millions of students, this flow must be heavily optimized and batched. Desir
 
 ## 5. Credential Verification Flow
 
-<img width="1546" height="776" alt="image" src="https://github.com/user-attachments/assets/0ce3a147-024d-4dd5-bfa7-3a51e00eb258" />
+![Credential verification sequence](https://github.com/user-attachments/assets/0ce3a147-024d-4dd5-bfa7-3a51e00eb258)
 
 The verification sequence diagram focuses on the experience of an employer or verifier.
 
@@ -86,7 +85,7 @@ At large scale, this flow must remain extremely simple for employers. Desired fe
 
 ## 6. Credential Lifecycle and Revocation
 
-<img width="873" height="783" alt="image" src="https://github.com/user-attachments/assets/9b3b606c-6b93-4d7b-8b8c-4e6079fb97ab" />
+![Credential lifecycle state diagram](https://github.com/user-attachments/assets/9b3b606c-6b93-4d7b-8b8c-4e6079fb97ab)
 
 The credential lifecycle state diagram defines how a credential can evolve over time.
 
@@ -99,7 +98,7 @@ This lifecycle is critical when millions of records are in circulation. New feat
 
 ## 7. Wallet Onboarding and DID Creation
 
-<img width="314" height="709" alt="image" src="https://github.com/user-attachments/assets/610cc47f-5ebf-4d17-b6e6-35666f06f120" />
+![Wallet onboarding flow](https://github.com/user-attachments/assets/610cc47f-5ebf-4d17-b6e6-35666f06f120)
 
 The wallet onboarding flow shows how every student gains a self-sovereign identity.
 
@@ -112,7 +111,7 @@ To support millions of students, the desired enhancements include mobile-first U
 
 ## 8. Intellectual Property Registration for Theses and Projects
 
-<img width="313" height="804" alt="image" src="https://github.com/user-attachments/assets/16bd7cf9-af31-4b14-bbe6-188585ef1554" />
+![IP registration flow](https://github.com/user-attachments/assets/16bd7cf9-af31-4b14-bbe6-188585ef1554)
 
 The IP registration flowchart introduces a powerful new feature: tokenizing student research outputs.
 
@@ -130,7 +129,7 @@ This feature allows millions of students to cryptographically prove ownership of
 
 ## 9. COXY Token and Fee Flow
 
-<img width="1616" height="251" alt="image" src="https://github.com/user-attachments/assets/6bde5058-ff61-4838-a3aa-2568358128e7" />
+![COXY token and fee flow](https://github.com/user-attachments/assets/6bde5058-ff61-4838-a3aa-2568358128e7)
 
 The fee and COXY token flow diagram defines how actions are monetized and how value is shared.
 
@@ -146,7 +145,7 @@ At scale, this model allows COXY to become the economic backbone of the credenti
 
 ## 10. Analytics and Performance Reporting
 
-<img width="1508" height="659" alt="image" src="https://github.com/user-attachments/assets/d037198b-3bd6-431d-9031-5086e3b13a71" />
+![Performance reports](https://github.com/user-attachments/assets/d037198b-3bd6-431d-9031-5086e3b13a71)
 
 The performance reports screenshot demonstrates an early version of the analytics layer.
 
@@ -181,15 +180,15 @@ To move from a successful pilot to a global platform, COXY needs several product
 7. **Security and compliance**  
    All flows must be hardened with rate limiting, audit logs, institutional approval workflows, and compliance with data-protection regulations. For millions of users, automated monitoring and anomaly detection become essential.
 
-<img width="1462" height="728" alt="image" src="https://github.com/user-attachments/assets/361a91b5-ba02-48da-a397-c34655e10335" />
+![Tools view](https://github.com/user-attachments/assets/361a91b5-ba02-48da-a397-c34655e10335)
 
 Tools
 
-<img width="1481" height="689" alt="image" src="https://github.com/user-attachments/assets/12a90a38-4e12-4256-9a80-7527891d9b1d" />
+![Universities tools](https://github.com/user-attachments/assets/12a90a38-4e12-4256-9a80-7527891d9b1d)
 
 Enrollment and Colleges
 
-<img width="1397" height="647" alt="image" src="https://github.com/user-attachments/assets/f5eb9e09-1f01-4c29-a828-47849c47e5fb" />
+![Enrollment cards](https://github.com/user-attachments/assets/f5eb9e09-1f01-4c29-a828-47849c47e5fb)
 
 ## 12. Roadmap Summary
 
@@ -203,4 +202,3 @@ The next phase focuses on turning these capabilities into a robust platform for 
 - Providing strong governance and revocation models to maintain trust over time.
 
 If executed well, **“COXY: Tokenizing Tertiary Student Credentials On-Chain”** can evolve from a specialized Haskell Plutus training environment into a global infrastructure for academic recognition and innovation.
-```
