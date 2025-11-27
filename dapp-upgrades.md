@@ -5,6 +5,8 @@ _New desired features for a platform that can serve millions of tertiary student
 
 COXY aims to become a global academic credentials network where every tertiary student owns a secure, verifiable, and portable record of their learning. The goal is to move from a single-site pilot to an infrastructure that can reliably serve millions of students across thousands of universities and colleges.
 
+<img width="1829" height="861" alt="image" src="https://github.com/user-attachments/assets/2cf4d99f-edd4-4e17-9dd3-7e4622bc8d2b" />
+
 In this vision, every grade, project, and intellectual-property output can be anchored on the Cardano blockchain and represented as tokenized assets governed by the COXY token. Students manage their identities and records through the Coxy Academic Wallet, while universities issue credentials through dedicated dashboards, and employers verify them through a simple web portal.
 
 ## 2. Current Platform Snapshot
